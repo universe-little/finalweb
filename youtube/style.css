@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+
+h2{
+    height: 32px;
+    font-size: medium;
+}
+
+#playButton:hover{
+    background-color: #BE77FF;
+}
